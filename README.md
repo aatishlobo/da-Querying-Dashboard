@@ -16,8 +16,6 @@ We conduct an RFM analysis to help answer questions 3 and 4, splitting the data 
 
 We finally use Tableau to graphically represent insights we have gained from the data, forming two dashboards.
 
-(Also linked above)
+Dashboard 1 (dash1.pdf): <img src="dash1.pdf">
 
-Dashboard 1: <img src="dash1.pdf">
-
-Dashboard 2: <img src="dash2.pdf">
+Dashboard 2 (dash2.pdf): <img src="dash2.pdf">
