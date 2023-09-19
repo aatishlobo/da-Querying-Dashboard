@@ -1,5 +1,4 @@
 # Exploring Sales Data Using SQL and Tableau
-Using SQL to make queries on sales data, using Tableau to create dashboards
 
 ## SQL
 
